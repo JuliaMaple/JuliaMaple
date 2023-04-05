@@ -50,6 +50,19 @@ API:
 
 ## SQL-запросы 
 
+
+## Пройденные курсы, семинары, вебинары и прочее
+
+1. [Интерактивный тренажёр по SQL (Stepik)](https://stepik.org/course/63054/syllabus?auth=login)
+
+[Сертификат]()
+
+2. [Тестирование ПО: Postman для тестирования API (Stepik)](https://stepik.org/course/120679/info)
+
+[Сертификат](https://stepik.org/cert/1900972)
+
+
+
 ## Инструменты
 
 ![Postman](https://user-images.githubusercontent.com/96011528/230082575-242754d6-ee96-4eee-a68a-31c70339af08.png)
