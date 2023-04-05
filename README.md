@@ -50,6 +50,16 @@ API:
 
 ## SQL-запросы 
 
+## Инструменты
+
+![Postman](https://user-images.githubusercontent.com/96011528/230082575-242754d6-ee96-4eee-a68a-31c70339af08.png)
+![Java](https://user-images.githubusercontent.com/96011528/230082856-db042451-bad7-48c9-a9b8-a460c2c430d3.png)
+![Intellij Idea](https://user-images.githubusercontent.com/96011528/230084060-ad0a2c56-a6de-4338-aa64-962e1e0c6090.png)
+![DBeaver](https://user-images.githubusercontent.com/96011528/230083887-cdef7809-2f9a-46b5-afb8-e6b1da2cfc32.png)
+![Jira](https://user-images.githubusercontent.com/96011528/230083654-88053319-113f-4da4-89a6-3d420c7dcaf6.png)
+
+
+
 
 Пример портфолио: 
 https://github.com/qajenna
