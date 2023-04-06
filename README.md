@@ -76,6 +76,7 @@ API:
 
 - [Тренажёры для тестировщиков](https://telegra.ph/Testovye-ploshchadki-dlya-trenirovok-nastoyashchih-nindzya-12-22)
 - [Библия QA от Влада Еремеева](https://vladislaveremeev.gitbook.io/qa_bible/)
+- [Инструкция по созданию автоматизированных тестов](https://disk.yandex.ru/i/VEtOtG_O9aH32g)
 
 Пример портфолио: 
 https://github.com/qajenna
