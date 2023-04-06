@@ -1,11 +1,22 @@
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200"/>
+  
+  <div id="badges">
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Twitter Badge"/>
+  </a>
+  <h1>
+  Привет!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+    
+    
+</div>
 </div>
 
-
-
-# Привет!
-### Меня зовут Клёнова Юлия. Я работаю QA специалистом в компании "Т1 Инновация". Специализируюсь на ручном тестировании WEB-приложений, API, автоматизированном тестировании. В профессии с 2020 года. 
+### Обо мне
+Меня зовут Клёнова Юлия. Я работаю QA специалистом в компании "Т1 Инновация". Специализируюсь на ручном тестировании WEB-приложений, API, автоматизированном тестировании. В профессии с 2020 года. 
 
 ## CV
 
@@ -88,16 +99,4 @@ API:
 Пример портфолио: 
 https://github.com/qajenna
 
-## Я в социальных сетях 
-<div id="badges">
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Twitter Badge"/>
-  </a>
-  <a href="https://vk.com/id335443907">
-    <img src="https://img.shields.io/badge/ВКонтакте-red?style=for-the-badge&logo=вконтакте&logoColor=white" alt="Вконтакте Badge"/>
-  </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
 
