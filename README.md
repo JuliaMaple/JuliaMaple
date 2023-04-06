@@ -48,7 +48,7 @@ API:
 
 [Коллекция запросов reqres.in](https://github.com/JuliaMaple/JuliaMaple/blob/main/REQRES.postman_collection.json)
 
-## SQL-запросы 
+## SQL
 
 [Примеры SQL-запросов](https://github.com/JuliaMaple/JuliaMaple/blob/main/SQL%20%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%81%D1%8B)
 
