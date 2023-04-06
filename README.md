@@ -1,3 +1,9 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200"/>
+</div>
+
+
+
 # Привет!
 ### Меня зовут Клёнова Юлия. Я работаю QA специалистом в компании "Т1 Инновация". Специализируюсь на ручном тестировании WEB-приложений, API, автоматизированном тестировании. В профессии с 2020 года. 
 
@@ -77,9 +83,21 @@ API:
 - [Тренажёры для тестировщиков](https://telegra.ph/Testovye-ploshchadki-dlya-trenirovok-nastoyashchih-nindzya-12-22)
 - [Библия QA от Влада Еремеева](https://vladislaveremeev.gitbook.io/qa_bible/)
 - [Инструкция по созданию автоматизированных тестов](https://disk.yandex.ru/i/VEtOtG_O9aH32g)
+- [Как сделать портфолио на GitHub](https://proglib.io/p/kak-kreativno-oformit-profil-na-github-chtoby-on-privlekal-vnimanie-2022-03-17)
 
 Пример портфолио: 
 https://github.com/qajenna
 
 ## Я в социальных сетях 
+<div id="badges">
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Twitter Badge"/>
+  </a>
+  <a href="https://vk.com/id335443907">
+    <img src="https://img.shields.io/badge/ВКонтакте-red?style=for-the-badge&logo=вконтакте&logoColor=white" alt="Вконтакте Badge"/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 
