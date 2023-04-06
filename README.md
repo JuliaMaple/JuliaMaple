@@ -46,7 +46,7 @@ API:
 
 ## Коллекция в Postman 
 
-тут будет ссылка на коллекцию в постман
+[Коллекция запросов reqres.in](https://github.com/JuliaMaple/JuliaMaple/blob/main/REQRES.postman_collection.json)
 
 ## SQL-запросы 
 
