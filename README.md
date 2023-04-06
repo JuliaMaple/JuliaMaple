@@ -72,8 +72,10 @@ API:
 ![DBeaver](https://user-images.githubusercontent.com/96011528/230083887-cdef7809-2f9a-46b5-afb8-e6b1da2cfc32.png)
 ![Jira](https://user-images.githubusercontent.com/96011528/230083654-88053319-113f-4da4-89a6-3d420c7dcaf6.png)
 
+## Полезные материалы
 
-
+- [Тренажёры для тестировщиков](https://telegra.ph/Testovye-ploshchadki-dlya-trenirovok-nastoyashchih-nindzya-12-22)
+- [Библия QA от Влада Еремеева](https://vladislaveremeev.gitbook.io/qa_bible/)
 
 Пример портфолио: 
 https://github.com/qajenna
