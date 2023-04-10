@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200"/>
   
   <div id="badges">
-  <a href="your-linkedin-URL">
+  <a href="https://t.me/JuliaMaple">
     <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Twitter Badge"/>
   </a>
   <h1>
